@@ -45,4 +45,5 @@
 
 [2.2](./code/02-01-base-code/pages-boilerplate/gulpfile.js)
 
+[2.3](./code/02-01-base-code-02/pages-boilerplate/gruntfile.js)
 
