@@ -41,8 +41,8 @@
 
 代码详见
 
-[2.1](./code/cli.js)
+[2.1](./code/cli_code/cli.js)
 
-[2.2](./code/02-01-base-code)
+[2.2](./code/02-01-base-code/pages-boilerplate/gulpfile.js)
 
 
